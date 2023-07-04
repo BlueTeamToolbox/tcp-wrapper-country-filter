@@ -1,16 +1,16 @@
 <p align="center">
-    <a href="https://github.com/SecOpsToolbox/">
-        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/secopstoolbox/black-and-white-circle-256.png" alt="SecOpsToolbox logo" />
+    <a href="https://github.com/BlueTeamToolbox/">
+        <img src="https://cdn.wolfsoftware.com/assets/images/github/organisations/blueteamtoolbox/black-and-white-circle-256.png" alt="BlueTeamToolbox logo" />
     </a>
     <br />
-    <a href="https://github.com/SecOpsToolbox/tcp-wrapper-country-filter/actions/workflows/pipeline.yml">
-        <img src="https://img.shields.io/github/workflow/status/SecOpsToolbox/tcp-wrapper-country-filter/pipeline/master?style=for-the-badge" alt="Github Build Status">
+    <a href="https://github.com/BlueTeamToolbox/tcp-wrapper-country-filter/actions/workflows/pipeline.yml">
+        <img src="https://img.shields.io/github/workflow/status/BlueTeamToolbox/tcp-wrapper-country-filter/pipeline/master?style=for-the-badge" alt="Github Build Status">
     </a>
-    <a href="https://github.com/SecOpsToolbox/tcp-wrapper-country-filter/releases/latest">
-        <img src="https://img.shields.io/github/v/release/SecOpsToolbox/tcp-wrapper-country-filter?color=blue&label=Latest%20Release&style=for-the-badge" alt="Release">
+    <a href="https://github.com/BlueTeamToolbox/tcp-wrapper-country-filter/releases/latest">
+        <img src="https://img.shields.io/github/v/release/BlueTeamToolbox/tcp-wrapper-country-filter?color=blue&label=Latest%20Release&style=for-the-badge" alt="Release">
     </a>
-    <a href="https://github.com/SecOpsToolbox/tcp-wrapper-country-filter/releases/latest">
-        <img src="https://img.shields.io/github/commits-since/SecOpsToolbox/tcp-wrapper-country-filter/latest.svg?color=blue&style=for-the-badge" alt="Commits since release">
+    <a href="https://github.com/BlueTeamToolbox/tcp-wrapper-country-filter/releases/latest">
+        <img src="https://img.shields.io/github/commits-since/BlueTeamToolbox/tcp-wrapper-country-filter/latest.svg?color=blue&style=for-the-badge" alt="Commits since release">
     </a>
     <br />
     <a href=".github/CODE_OF_CONDUCT.md">
@@ -22,7 +22,7 @@
     <a href=".github/SECURITY.md">
         <img src="https://img.shields.io/badge/Report%20Security%20Concern-blue?style=for-the-badge" />
     </a>
-    <a href="https://github.com/SecOpsToolbox/tcp-wrapper-country-filter/issues">
+    <a href="https://github.com/BlueTeamToolbox/tcp-wrapper-country-filter/issues">
         <img src="https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge" />
     </a>
     <br />
@@ -141,8 +141,8 @@ sshd: ALL
 
 ## Alternatives
 
-We provide a number of different [TCP Wrapper filters](https://github.com/SecOpsToolbox?q=in%3Aname+tcp+wrapper+filter&type=&language=).
+We provide a number of different [TCP Wrapper filters](https://github.com/BlueTeamToolbox?q=in%3Aname+tcp+wrapper+filter&type=&language=).
 
 ## Multiple Rules
 
-If you wish to use more than one of our TCP Wrappers then please refer to our [TCP Wrapper Multiplexer](https://github.com/SecOpsToolbox/tcp-wrapper-multiplexer).
+If you wish to use more than one of our TCP Wrappers then please refer to our [TCP Wrapper Multiplexer](https://github.com/BlueTeamToolbox/tcp-wrapper-multiplexer).
